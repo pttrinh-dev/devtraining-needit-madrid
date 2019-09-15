@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="6a09aecfdb8d3740e6379709f49619bf" sys_domain="global" table="x_58872_needit_needit" version="3" view="Create_New_View_dialog">
+    <sys_ui_section caption="" section_id="bf689fd7db7f330002b02fb74896192e" sys_domain="global" table="x_58872_needit_needit" version="3" view="Test_View">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>6609eecfdb8d3740e6379709f496199d</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>bf689fd7db7f330002b02fb748961960</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>ea09eecfdb8d3740e6379709f496199d</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>37689fd7db7f330002b02fb748961961</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>cmdb_ci</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>6e09eecfdb8d3740e6379709f496199d</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>b7689fd7db7f330002b02fb748961961</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>active</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>ee09eecfdb8d3740e6379709f496199d</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>3b689fd7db7f330002b02fb748961961</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>6209eecfdb8d3740e6379709f496199e</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>bb689fd7db7f330002b02fb748961961</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>priority</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>e209eecfdb8d3740e6379709f496199e</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>3f689fd7db7f330002b02fb748961961</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>6609eecfdb8d3740e6379709f496199e</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>bf689fd7db7f330002b02fb748961961</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>parent</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>e609eecfdb8d3740e6379709f496199e</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>33689fd7db7f330002b02fb748961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>6a09eecfdb8d3740e6379709f496199e</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>b3689fd7db7f330002b02fb748961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>short_description</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>ea09eecfdb8d3740e6379709f496199e</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>37689fd7db7f330002b02fb748961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>description</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>6e09eecfdb8d3740e6379709f496199e</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>b7689fd7db7f330002b02fb748961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>work_notes</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:25</sys_created_on>
-            <sys_id>ee09eecfdb8d3740e6379709f496199e</sys_id>
+            <sys_created_on>2019-09-15 18:48:38</sys_created_on>
+            <sys_id>3b689fd7db7f330002b02fb748961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="aa09aecfdb8d3740e6379709f49619bb">6a09aecfdb8d3740e6379709f49619bf</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit" sys_domain="global" view="77681fd7db7f330002b02fb7489619f4">bf689fd7db7f330002b02fb74896192e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:25</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -175,22 +175,22 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-05-01 03:50:24</sys_created_on>
+            <sys_created_on>2019-09-15 18:48:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6a09aecfdb8d3740e6379709f49619bf</sys_id>
+            <sys_id>bf689fd7db7f330002b02fb74896192e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_58872_needit_needit</sys_name>
             <sys_overrides/>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_ui_section_6a09aecfdb8d3740e6379709f49619bf</sys_update_name>
+            <sys_update_name>sys_ui_section_bf689fd7db7f330002b02fb74896192e</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-05-01 03:50:24</sys_updated_on>
+            <sys_updated_on>2019-09-15 18:48:37</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Create New View dialog" name="Create_New_View_dialog">aa09aecfdb8d3740e6379709f49619bb</view>
+            <view display_value="Test View" name="Test_View">77681fd7db7f330002b02fb7489619f4</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>
